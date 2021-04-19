@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crello/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/crello/static/js/main.9e431a6d.chunk.js",
+    "main.js.map": "/crello/static/js/main.9e431a6d.chunk.js.map",
+    "runtime-main.js": "/crello/static/js/runtime-main.d076bb8e.js",
+    "runtime-main.js.map": "/crello/static/js/runtime-main.d076bb8e.js.map",
+    "static/js/2.50256d16.chunk.js": "/crello/static/js/2.50256d16.chunk.js",
+    "static/js/2.50256d16.chunk.js.map": "/crello/static/js/2.50256d16.chunk.js.map",
+    "static/js/3.43f2d781.chunk.js": "/crello/static/js/3.43f2d781.chunk.js",
+    "static/js/3.43f2d781.chunk.js.map": "/crello/static/js/3.43f2d781.chunk.js.map",
+    "index.html": "/crello/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/crello/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.50256d16.chunk.js.LICENSE.txt": "/crello/static/js/2.50256d16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d076bb8e.js",
+    "static/js/2.50256d16.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9e431a6d.chunk.js"
+  ]
+}
