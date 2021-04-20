@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crello/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/crello/static/js/main.9e431a6d.chunk.js",
-    "main.js.map": "/crello/static/js/main.9e431a6d.chunk.js.map",
+    "main.js": "/crello/static/js/main.d5424203.chunk.js",
+    "main.js.map": "/crello/static/js/main.d5424203.chunk.js.map",
     "runtime-main.js": "/crello/static/js/runtime-main.d076bb8e.js",
     "runtime-main.js.map": "/crello/static/js/runtime-main.d076bb8e.js.map",
     "static/js/2.50256d16.chunk.js": "/crello/static/js/2.50256d16.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d076bb8e.js",
     "static/js/2.50256d16.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9e431a6d.chunk.js"
+    "static/js/main.d5424203.chunk.js"
   ]
 }
